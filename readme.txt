@@ -7,10 +7,12 @@ Tested up to: 3.2.1
 Stable tag: 1.0
 
 This plugin allows you to upload images to ImageShack.com directly from your posting screen.
+See http://anthony.strangebutfunny.net/my-plugins/easiest-newsletter/ for help
  
 == Description ==
 
 This plugin allows you to upload images to ImageShack.com directly from your posting screen.
+See http://anthony.strangebutfunny.net/my-plugins/easiest-newsletter/ for help
 
 == Installation ==
 
