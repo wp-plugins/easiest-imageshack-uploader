@@ -2,15 +2,9 @@
 Contributors: alexandanthony, Adzbierajewski
 Donate link: http://anthony.strangebutfunny.net/
 Tags: imageshack, post, images
-<<<<<<< .mine
-Requires at least: 3.4
-Tested up to: 3.4
-Stable tag: 2.0
-=======
-Requires at least: 3.2.1
-Tested up to: 3.2.1
-Stable tag: 2.0
->>>>>>> .r564421
+Requires at least: 3.4.1
+Tested up to: 3.4.1
+Stable tag: 3.0
 
 This plugin allows you to upload images to ImageShack.com directly from your posting screen.
 See http://anthony.strangebutfunny.net/my-plugins/easiest-newsletter/ for help
